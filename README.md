@@ -1,11 +1,5 @@
 
 
-![Routine Tracker GitHub cover image](images/readme/readme_cover_image.png)
-
-|                                                 |                                               |                                              |
-|-------------------------------------------------|-----------------------------------------------|----------------------------------------------|
-| ![](images/readme/feature_search_groceries.png) | ![](images/readme/feature_separate_lists.png) | ![](images/readme/feature_customization.png) |
-
 Grocery Genius is a free, customizable shopping list app with a modern design, autocomplete suggestions, offline capabilities, and feature-rich functionality.
 
 ## Features
