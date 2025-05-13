@@ -1,27 +1,4 @@
-<h1 align="center" style="font-size:28px; line-height:1"><b>Grocery Genius</b></h1>
 
-<div align="center">
-  <img alt="Grocery Genius logo" src="images/app_logo_rounded_corners.svg" height="150px">
-</div>
-
-<br />
-
-<div align="center">
-
-[<img src="images/banners/banner_github.png"
-      alt="Get it on GitHub"
-      height="80">](https://github.com/DanielRendox/GroceryGenius/releases)
-[<img src="images/banners/banner_izzy_on_droid.png"
-      alt="Get it on IzzyOnDroid"
-      height="80">](https://apt.izzysoft.de/fdroid/index/apk/com.rendox.grocerygenius)
-[<img src="images/banners/banner_google_play.png" 
-      alt="Get it on Google Play"
-      height="80">](https://play.google.com/store/apps/details?id=com.rendox.grocerygenius)
-
-</div>
-
-<br />
-<br />
 
 ![Routine Tracker GitHub cover image](images/readme/readme_cover_image.png)
 
